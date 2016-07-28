@@ -1,1 +1,3 @@
 # CircleOfDeath
+
+My first hackathon, I could barely code back then...
